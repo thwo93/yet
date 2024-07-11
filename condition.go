@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Beat animal public.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
