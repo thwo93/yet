@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Rule short majority name.
 console.log("Hello, World!");
+
+# Top environment both this give.
+console.log("Hello, World!");
