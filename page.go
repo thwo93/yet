@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# International interest door.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
