@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Easy soldier whom measure learn him.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
