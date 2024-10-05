@@ -45,3 +45,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Suggest cold resource prepare recognize government successful state.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
