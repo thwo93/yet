@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Director next easy area.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
