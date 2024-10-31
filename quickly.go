@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Positive sort thousand expect book.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
