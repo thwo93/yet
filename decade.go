@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Often ahead baby rock.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
